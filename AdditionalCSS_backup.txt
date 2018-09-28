@@ -1,0 +1,111 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+/*Hide archives*/
+.meta-post .posted-on, 
+.meta-post .byline {
+  display: none;  
+}
+
+.single-post {
+  background-color: #a7a9ac;
+}
+
+.single-projects {
+  background-color: #a7a9ac;
+}
+
+.single-employees {
+  background-color: #a7a9ac;
+}
+
+.single-clients {
+  background-color: #a7a9ac;
+}
+
+.single-services {
+  background-color: #a7a9ac;
+}
+
+.single-testimonials {
+  background-color: #a7a9ac;
+}
+
+#secondary,
+.comment-body,
+.page-wrap .content-wrapper { 
+  background-color: transparent;  
+}
+
+/*
+.text-slider h2.maintitle{
+  font-size:75px;
+}
+*/
+
+/*hide wordpress footer*/
+
+.site-footer {
+
+  display: none;
+
+}
+
+div.widget_sydney_action h3.title,
+
+div.widget_sydney_action h3.widget-title {
+    
+	font-size: 24px !important;
+    
+	font-weight: bold;
+
+}
+
+
+body.single-projects #primary {
+
+    width: 100%;
+
+}
+
+body.single-projects .entry-header {
+
+    display: none;
+
+}
+
+
+
+.roll-project .project-item{
+
+  box-sizing: border-box;
+  
+padding: 5px;
+
+}
+
+
+
+.roll-project .project-item .project-pop{
+
+  width: calc(100% - 20px);
+
+  width: -webkit-calc(100% - 20px);
+
+  width: -moz-calc(100% - 20px);
+
+  height: calc(100% - 20px);
+
+  height: -webkit-calc(100% - 20px);
+
+  height: -moz-calc(100% - 20px);
+
+}
+
+body.single-employees #primary {
+
+    width: 100%;
+
+}
